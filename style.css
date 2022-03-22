@@ -1,0 +1,38 @@
+* 
+
+body {
+    background-color: rgb(236, 244, 245);
+}
+
+header {
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(173, 193, 194);
+    color: azure;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 36px;
+    color: rgb(74, 94, 94);
+}
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 23px;
+}
+
+a {
+    color: rgb(74, 94, 94);
+}
