@@ -1,0 +1,86 @@
+* 
+
+body {
+    background-color: rgb(236, 244, 245);
+}
+
+header {
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(230, 224, 229);
+    color: azure;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 39px;
+    color: rgb(74, 94, 94);
+}
+
+header nav {
+    padding-top: 10px;
+    margin-right: 25px;
+    float: right;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 23px;
+}
+
+a {
+    color: rgb(74, 94, 94);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-style: bold;
+
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    
+}
+
+.info {
+    height: 200px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-image: url("../assets/images/background.jpg") ;
+    background-size: cover;
+    background-position: center;
+}
+
+.portfolio-information {
+    display: inline block;
+    float: right;
+    margin-right: 15px;
+    padding: 30px;
+    clear: both;
+    width: 70%;
+    background-color: blanchedalmond;
+}
+
+.titles {
+    margin-left: 20px;
+    padding: 14px;
+    float: left;
+    background-color: bisque;
+
+}
+
+#my-work {
+    border-image: 5px;
+    ;
+}
