@@ -46,13 +46,19 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
     font-style: bold;
-
 }
 
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14px;
     
+}
+
+aside {
+    margin-left: 10px;
+    padding: 40px;
+    background-color: bisque;
+    display: inline-block;
 }
 
 .info {
@@ -74,24 +80,21 @@ p {
     background-color: blanchedalmond;
 }
 
-.titles {
-    margin-left: 20px;
-    padding: 14px;
-    float: left;
-    background-color: bisque;
-
-}
 
 #contact-me a {
     font-size: 14px;
+    padding-left: 60px;
 }
 
 .projects img {
-    display: flex; 
-    box-sizing: border-box;
-    flex: 20%;
     padding: 5px;
-    max-width: 75px;
-    max-height: 75px;
-    
+    max-width: 450px;
+    max-height: 450px;
+    display: block;
+    float: left;
 }
+
+#project-1 {
+
+}
+.HTML
