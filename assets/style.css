@@ -3,13 +3,13 @@
 }
 
 body {
-    background-color: rgb(236, 244, 245);
+    background-color: rgb(255, 255, 255);
 }
 
 header {
     padding: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color:rgb(230, 224, 229);
+    background-color:rgb(175, 188, 190);
     color: azure;
 }
 
@@ -93,8 +93,3 @@ aside {
     display: block;
     float: left;
 }
-
-#project-1 {
-
-}
-.HTML
