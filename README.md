@@ -16,7 +16,7 @@
 <img src="./assets/images/screenshot 2.jpg" alt="The about me portion of my portfolio" />
 <img src="./assets/images/screenshot 3.jpg" alt="My work section with projects 1-3" />
 <img src="./assets/images/screenshot 4.jpg" alt="My projects 4-5">
-<img src="./asstes/images/screenshot 5.jpg" alt="My contact portion">
+<img src="./assets/images/screenshot 5.jpg" alt="My contact portion">
 <img src="./assets/images/screenshot 6.jpg" alt="My resume">
 
 ## Link
