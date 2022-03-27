@@ -20,4 +20,4 @@
 <img src="./assets/images/screenshot 6.jpg" alt="My resume">
 
 ## Link
-<link> 
+[Published Portfolio](https://megansilva.github.io/runbud-pp/) 
