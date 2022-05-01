@@ -121,7 +121,7 @@ p {
     min-height: 200px;
     flex-basis: 75%;
     flex-wrap: wrap;
-    background-image: url("../assets/images/project 1.jpeg");
+    background-image: url("./images/project1update.jpg");
     align-items: center;
 }
 /* Could not get the images to line up with the first child under project-boxes*/
