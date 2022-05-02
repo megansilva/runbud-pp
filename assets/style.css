@@ -5,7 +5,7 @@
 /*Tried to use the root tag for the color and font family but was not working, not sure if I can use it for those styles*/
 
 body {
-    background-color: rgb(187, 198, 201);
+    background-color: rgb(228, 237, 240);
 }
 
 header {
@@ -18,8 +18,9 @@ header {
 header h1 {
     display: inline-block;
     font-size: 42px;
-    color: #f5ddb1;
+    color: #cce9eb;
 }
+
 
 header nav {
     padding-top: 10px;
@@ -67,7 +68,7 @@ p {
     height: 200px;
     width: 100%;
     margin-bottom: 20px;
-    background-image: url("../assets/images/background.jpg") ;
+    background-image: url("./images/newbackground.jpg") ;
     background-size: cover;
     background-position: center;
 }
@@ -102,7 +103,6 @@ p {
 }
 
 .project-boxes {
-    border: 10px solid white;
     background-color: none;
     min-height: 150px;
     max-height: 150px;
@@ -121,10 +121,51 @@ p {
     min-height: 200px;
     flex-basis: 75%;
     flex-wrap: wrap;
-    background-image: url("./images/project1update.jpg");
     align-items: center;
 }
 /* Could not get the images to line up with the first child under project-boxes*/
+
+#project-1 {
+    background-image: url("./images/project1title.jpg");
+    min-height: 400px;
+    flex-basis: 75%;
+    flex-wrap: wrap;
+    border: 10px solid white;
+}
+
+#project-2 {
+    background-image: url("./images/project\ 2.jpeg");
+    min-height: 200px;
+    flex-basis: 75%;
+    flex-wrap: wrap;
+    border: 10px solid white;
+}
+
+#project-3 {
+    background-image: url("./images/project\ 3.jpeg");
+    min-height: 200px;
+    flex-basis: 75%;
+    flex-wrap: wrap;
+    border: 10px solid white;
+}
+
+#project-4 {
+    background-image: url("./images/project\ 4.jpeg");
+    min-height: 200px;
+    flex-basis: 75%;
+    flex-wrap: wrap;
+    border: 10px solid white;
+}
+
+#project-5 {
+    background-image: url("./images/project\ 5.jpeg");
+    min-height: 200px;
+    flex-basis: 75%;
+    flex-wrap: wrap;
+    border: 10px solid white;
+}
+
+
 
 h3 {
     font-size: 30px;
